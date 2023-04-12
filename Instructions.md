@@ -1,5 +1,4 @@
-# PS1 - Your Dream House
-## Deadline: March, 13th at 23:00
+# Your Dream House
 ## Introduction
 
 In this problem set, you will use Python control flow to solve a computational problem, by using *Bisection Search*. In total, you will solve **four** different problems. For each part, you should write your code in the file ps1{name of the part}. For example, for part D, it should be "ps1d.py".
